@@ -1,0 +1,84 @@
+1. Inside which HTML element do we put the JavaScript?
+<script>	--> correct
+<javascript>
+<scripting>
+<js>
+
+2. What is the correct syntax for referring to an external script called "xxx.js"?
+<script src="xxx.js">		--> Correct
+<script href="xxx.js">
+<script name="xxx.js">
+
+3. How do you write "Hello World" in an alert box?
+alertBox("Hello World");
+msgBox("Hello World");
+msg("Hello World");
+alert("Hello World");	--> Correct
+
+
+4. How do you create a function in JavaScript?
+function:myFunction()
+function = myFunction()
+function myFunction()	--> Correct
+
+
+5. How do you call a function named "myFunction"?
+call function myFunction()
+call myFunction()
+myFunction()		--> Correct
+
+
+6. How to write an IF statement in JavaScript?	(Answer find)
+if i = 5
+if (i == 5)	
+if i == 5 then	
+if i = 5 then
+
+7. How to write an IF statement for executing some code if "i" is NOT equal to 5?
+if (i <> 5)
+if (i != 5)	-->Corret
+if i =! 5 then
+if i <> 5
+
+
+8. How does a FOR loop start?
+for (i = 0; i <= 5)
+for (i <= 5; i++)
+for (i = 0; i <= 5; i++)	--> correct
+for i = 1 to 5
+
+
+9. How can you add a comment in a JavaScript?
+//This is a comment		--> correct
+'This is a comment
+<!--This is a comment-->
+
+
+10. How to insert a comment that has more than one line?
+<!--This comment has
+more than one line-->
+//This comment has
+more than one line//
+/*This comment has		--> Correct
+more than one line*/
+
+11. What is the correct way to write a JavaScript array?
+var colors = 1 = ("red"), 2 = ("green"), 3 = ("blue")
+var colors = (1:"red", 2:"green", 3:"blue")
+var colors = ["red", "green", "blue"]		--> correct
+var colors = "red", "green", "blue"
+
+
+12. How do you declare a JavaScript variable?
+v carName;
+var carName;		--> correct
+variable carName;
+ 
+13. Which operator is used to assign a value to a variable?
+x
+*
+=	--> correct
+-
+
+
+

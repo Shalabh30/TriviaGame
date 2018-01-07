@@ -1,0 +1,43 @@
+body {
+	box-sizing: border-box;
+	text-align: center;
+	margin-left:100px;
+	margin-right: 100px;
+	font-family: 'Montserrat', sans-serif;
+	background-image: url("../images/HDP_896.jpg");	
+
+}
+
+h1 {
+
+	font-weight: 200;
+	color: red;
+	font-size: 3em;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 15px;
+	text-align: center;
+}
+
+h2 {
+	/*color: #ff8c00;*/
+	color: red;
+}
+
+#start {
+	text-align: left;
+}
+
+/*quiz area*/
+div#quiz-area {
+	margin-top: 10px;
+	padding: 10px;
+}
+
+/*form with questions*/
+div#sub-wrapper {
+	background: #fff;
+	opacity: 0.7;
+	text-align: center;
+}
+	
+
